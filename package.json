@@ -1,0 +1,24 @@
+{
+  "name": "bengkel",
+  "version": "1.0.0",
+  "description": "aplikasi bengkel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roihan27/bengkel.git"
+  },
+  "keywords": [
+    "bengkel",
+    "node",
+    "js"
+  ],
+  "author": "roihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roihan27/bengkel/issues"
+  },
+  "homepage": "https://github.com/roihan27/bengkel#readme"
+}
